@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ErsteAPI-TextKorrektur": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "APIKey": "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"
+      }
+    }
+  }
+}
